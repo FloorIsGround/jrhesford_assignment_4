@@ -79,4 +79,4 @@ function leetSpeak(string){
 
 }
 
-console.log(leetSpeak("Endangered"));
+//console.log(leetSpeak("Endangered"));
